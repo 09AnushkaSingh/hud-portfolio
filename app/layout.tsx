@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Anushka Singh | Economics & Data Analyst",
     description: "Data analysis, econometrics, and financial research. Explore my live cyber portfolio.",
-    url: "https://hud-portfolio.vercel.app",
+    url: "https://hud-portfolio-ashen.vercel.app",
     siteName: "Anushka Singh Portfolio",
     type: "website",
   },

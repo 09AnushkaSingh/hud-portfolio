@@ -1,6 +1,6 @@
 # 🖥️ Anushka Singh — Cyber HUD Portfolio
 
-> **Live:** [https://hud-portfolio.vercel.app](https://hud-portfolio.vercel.app)
+> **Live:** [https://hud-portfolio-ashen.vercel.app](https://hud-portfolio-ashen.vercel.app)
 
 A JARVIS-style, hacker-aesthetic portfolio built for Backend & AI Engineers. Features a live AI assistant powered by GPT-4o-mini, a 3D interactive arc reactor, dual dark/light theme engine, and full mobile responsiveness.
 
