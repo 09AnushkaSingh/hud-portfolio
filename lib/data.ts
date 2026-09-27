@@ -68,7 +68,7 @@ export const PROJECTS = [
   {
     name: "Credit Card Default Prediction & Credit Risk Analysis",
     tag: "Python · Machine Learning · Risk Analysis",
-    url: "https://github.com/09AnushkaSingh",
+    url: "https://github.com/09AnushkaSingh/credit-card-default-prediction",
     bullets: [
       "Found that recent repayment behavior (PAY_0, PAY_2) predicts default better than credit limit or demographics",
       "Models trained on 30,000 records confirmed this with ~82% accuracy",
@@ -79,7 +79,7 @@ export const PROJECTS = [
   {
     name: "Retail Business Analytics using SQL",
     tag: "SQL · Pattern Recognition",
-    url: "https://github.com/09AnushkaSingh",
+    url: "https://github.com/09AnushkaSingh/sql-retail-analytics-project",
     bullets: [
       "Found that top 10 customers were driving most of the revenue across 400K+ transactions – a clear concentration risk",
       "Seasonal patterns in MoM revenue data showed when the business peaks and dips, giving a factual base for demand planning instead of assumptions"
@@ -89,7 +89,7 @@ export const PROJECTS = [
   {
     name: "Bank Loan Portfolio Analysis",
     tag: "Power BI · Dashboard",
-    url: "https://github.com/09AnushkaSingh",
+    url: "https://github.com/09AnushkaSingh/bank-loan-powerbi-analysis",
     bullets: [
       "Found a 13.8% charged-off loan rate and geographic concentration risk across a $435.7M portfolio",
       "MTD/MoM tracking gave a running view of portfolio health, making it easier for decision-makers to spot stress signals before they escalate"
@@ -99,7 +99,7 @@ export const PROJECTS = [
   {
     name: "Hospitality Operational Performance Dashboard",
     tag: "Data Visualization · Efficiency",
-    url: "https://github.com/09AnushkaSingh",
+    url: "https://github.com/09AnushkaSingh/hospitality-analytics-project",
     bullets: [
       "Traced revenue leakage and low-performing segments across 50,000+ records, giving management a clear picture of where resources were being wasted",
       "Recommendations built from the analysis projected a 20% gain in operational efficiency"
